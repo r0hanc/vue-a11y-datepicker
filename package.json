@@ -1,6 +1,6 @@
 {
   "name": "vue-aip-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Localized, accessible calendar and datepicker for Vue with no external dependencies.",
   "main": "index.js",
   "directories": {
